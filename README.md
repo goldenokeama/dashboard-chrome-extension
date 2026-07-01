@@ -6,6 +6,12 @@ Built as a project to practice asynchronous JavaScript, working with APIs, and C
 
 ---
 
+## 📸 Screenshot
+
+<img src="project-screenshot.png" alt="personal dashboard screenshot" width="500" />
+
+---
+
 ## ✨ Features
 
 - 🌅 Displays a random nature background on every new tab
@@ -13,7 +19,7 @@ Built as a project to practice asynchronous JavaScript, working with APIs, and C
 - 🕒 Displays the current time and updates every second
 - 📍 Detects your location to display current weather
 - 🌡️ Shows current temperature and city
-- 🪙 Displays live Dogecoin price information, including:
+- 🖥️ Displays live Dogecoin price information, including:
   - Current price
   - 24-hour high
   - 24-hour low
